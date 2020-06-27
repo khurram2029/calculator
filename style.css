@@ -1,0 +1,29 @@
+.main{
+    border: 2px solid grey;
+    width: 200px;
+    margin: 0 auto;
+     }
+
+.result{
+    width: 95%;
+    background-color: grey;
+    color: white;
+    background-color: lawngreen;
+}
+.clear{
+    width: 100%;
+    margin-top: 10px;
+    background-color:orange;
+}
+
+.btn{
+    background-color: salmon;
+    width: 45px;
+    margin: 1px;
+}
+
+.halfbtn{
+    background-color: greenyellow;
+    width: 98px;
+    margin-top: 5px;
+}
